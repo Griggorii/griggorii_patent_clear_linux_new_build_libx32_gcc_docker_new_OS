@@ -3,6 +3,6 @@ griggorii , patent , clear , linux , new , build , libx32 , gcc , docker , new ,
 
 Download rootfs variant: https://github.com/Griggorii/griggorii_patent_clear_linux_new_build_libx32_gcc_docker_new_OS/releases/tag/rootfs 
 
-Кто будет делать операционную систему из моих исходников в initrd.img-4.4.0-116 не забудьте удалить resume из /conf/conf.d по скольку это старый алиас на не существующий uuid
+Кто будет делать операционную систему из моих исходников в initrd.img-4.4.0-116 не забудьте удалить resume из /conf/conf.d по скольку это старый алиас на не существующий uuid раздела которого нет.
 
 Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
